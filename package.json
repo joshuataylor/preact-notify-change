@@ -1,0 +1,33 @@
+{
+  "name": "preact-notify-change",
+  "version": "0.0.1",
+  "description": "Shows a message when a new update is available to the user, or when the route changes a refresh is made; using service workers.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuataylor/preact-notify-change"
+  },
+  "main": "index.js",
+  "keywords": [
+    "preact",
+    "service worker",
+    "update",
+    "refresh"
+  ],
+  "author": {
+    "name": "Josh Taylor",
+    "email": "joshuataylorx@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Josh Taylor",
+      "email": "joshuataylorx@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "preact": "^8.2.1",
+  },
+  "peerDependencies": {
+    "preact": "^8.1.0"
+  }
+}

@@ -1,0 +1,10 @@
+.new_version {
+    position: absolute;
+    z-index: 10000;
+    bottom: 50px;
+    right: 0;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}
